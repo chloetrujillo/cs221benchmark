@@ -1,4 +1,4 @@
-This program is our benchmark function for CS221!
+Hello!!! This program is our benchmark function for CS221. :)
 
 Most of the files are from the explorecourses API we used to access the course description data.
 
