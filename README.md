@@ -3,9 +3,7 @@ Hello!!! This program is our benchmark function for CS221. :)
 Most of the files are from the explorecourses API we used to access the course description data.
 
 BACKEND/ DATA PROCESSING:
-This all happens in mycode-stanford.py
-The backend has naively tokenized every course description, and created a tally of the 100 most frequently used tokens across all course descriptions for a given department in a given year.
-The departments are those which still exist in 2023, and the academic years span every other year from 2001-2002 to 2023-2024.
+This all happens in mycode-stanford.py The backend has naively tokenized every course description, and created a tally of the 100 most frequently used tokens across all course descriptions for a given department in a given year. The departments are those which still exist in 2023, and the academic years span every other year from 2001-2002 to 2023-2024.
 
 FRONT END:
 By running python3 benchmarkprogram.py, you can naively see how similar two departments are. The program will first prompt you:
