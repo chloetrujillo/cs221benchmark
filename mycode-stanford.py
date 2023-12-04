@@ -12,6 +12,7 @@ print(1)
 connect = CourseConnection()
 
 import csv
+
 header = ['Department', 'Title', 'Subtitle', 'Description', 'ID']
 
 years = []
